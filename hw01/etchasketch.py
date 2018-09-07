@@ -2,6 +2,9 @@
 
 import os
 import copy
+from sys import version_info
+
+py3 = version_info[0] > 2 #creates boolean value for test that Python major version > 2
 
 def mark(state):
 	if state:
@@ -10,7 +13,7 @@ def mark(state):
 		return ' '
 
 def clear():
-    os.system( 'cls' )
+    os.system( 'clear' )
 		
 reset = [[False,False,False,False,False,False,False,False],
 	[False,False,False,False,False,False,False,False],
@@ -33,9 +36,12 @@ while True:
 	print('   0 1 2 3 4 5 6 7')
 	for i in range(8):
 		print(str(i)+': '+mark(grid[i][0])+' '+mark(grid[i][1])+' '+mark(grid[i][2])+' '+mark(grid[i][3])+' '+mark(grid[i][4])+' '+mark(grid[i][5])+' '+mark(grid[i][6])+' '+mark(grid[i][7]))
-
-	command = input("Enter Command: ")
 	
+	if py3:
+		command = input("Enter Command: ")
+	else:
+		command = raw_input("Enter Command: ")
+
 	if command == 'w':
 		if first:
 			first = False
