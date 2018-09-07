@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+
+#[x,y]
+position = [0,0]
+
+grid = [[False, False, False, False, False, False, False],
+	
