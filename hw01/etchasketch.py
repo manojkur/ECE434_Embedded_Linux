@@ -70,10 +70,11 @@ while True:
 		else:
 			if pos[0]<7:
 				pos[0] = pos[0] + 1
-	
-	if command == 'c':
+	elif command == 'c':
 		grid = copy.deepcopy(reset)
 		first = True
 		pos = [0,0]
-	else:
+
+
+	if command=='w' or command=='a' or command=='s' or command=='d':
 		grid[pos[1]][pos[0]] = True
