@@ -7,3 +7,5 @@ a - left
 s - down
 d -right
 c - clear
+
+I have done steps 1-6.
