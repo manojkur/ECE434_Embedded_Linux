@@ -17,3 +17,6 @@ Looks good, but I don't see how you wired up the temp sensor.
 I still need to see your demo.
 
 Score:9/10
+
+
+Thanks for the demo.
