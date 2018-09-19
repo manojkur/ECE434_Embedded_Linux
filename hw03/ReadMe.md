@@ -10,3 +10,9 @@ Use button on P9_11 to reset
 It will show up on 8x8 matrix
 
 
+========================
+Professor Yoder's Comments
+
+Looks good, but I don't see how you wired up the temp sensor.
+
+Score:9/10
