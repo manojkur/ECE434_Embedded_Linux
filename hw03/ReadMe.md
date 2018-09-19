@@ -14,5 +14,6 @@ It will show up on 8x8 matrix
 Professor Yoder's Comments
 
 Looks good, but I don't see how you wired up the temp sensor.
+I still need to see your demo.
 
 Score:9/10
