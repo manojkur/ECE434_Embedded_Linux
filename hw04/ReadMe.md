@@ -26,3 +26,10 @@ Memory Map
 
 The buttons and led works.
 The display works for pictures, video, and text.
+
+========================
+Professor Yoder's Comments
+
+Looks good, but I don't see how your toggle time compare with pervious times.
+
+Score:  9/10
