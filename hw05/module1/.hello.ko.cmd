@@ -1,0 +1,1 @@
+cmd_/home/debian/git/ECE434_Embedded_Linux/hw05/module1/hello.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -T ./arch/arm/kernel/module.lds -o /home/debian/git/ECE434_Embedded_Linux/hw05/module1/hello.ko /home/debian/git/ECE434_Embedded_Linux/hw05/module1/hello.o /home/debian/git/ECE434_Embedded_Linux/hw05/module1/hello.mod.o ;  true

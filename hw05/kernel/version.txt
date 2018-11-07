@@ -1,0 +1,1 @@
+Linux beaglebone 4.9.119-bone11 #1 PREEMPT Sat Oct 13 23:29:26 EDT 2018 armv7l GNU/Linux
