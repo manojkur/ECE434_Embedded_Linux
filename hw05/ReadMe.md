@@ -6,3 +6,15 @@
 	module1.png shows the screenshot of the terminal commands for module 1
 5. you can find the files for module 2 in the module2 folder
 	module2.png shows the screenshot of the terminal commands for module 2
+
+
+========================
+Professor Yoder's Comments
+
+Output from hello.c is missing
+
+Overall looks good.
+
+Late
+
+Score:  8/10

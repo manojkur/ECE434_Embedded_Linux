@@ -31,3 +31,12 @@ It is the low priority interrupts.
 
 11. Why can the External event in Figure 4 start sooner?
 The low priority interrupt is interrupted. That allows the External event to start sooner.
+
+========================
+Professor Yoder's Comments
+
+Looks good
+
+Late
+
+Score: 9/10
